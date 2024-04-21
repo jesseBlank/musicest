@@ -28,4 +28,4 @@ To get a local copy up and running follow these simple steps:
 
 ## Contact
 
-LinkedIn: "https://www.linkedin.com/in/jesse-blank/"
+LinkedIn: https://www.linkedin.com/in/jesse-blank/
